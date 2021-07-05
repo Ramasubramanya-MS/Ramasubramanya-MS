@@ -12,18 +12,4 @@
 🧰 Languages and Tools
 
 
-C Programming Language
-
-C++
-
-Java
-
-Python
-
-HTML5
-
-CSS3
-
-JavaScript
-
-PHP
+![alt text](image.jpg)
