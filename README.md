@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with Android Studio
 - 📫 How to reach me: ... ramasubramanyams1729@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I travelled 21 times around the Sun
+- ⚡ Fun fact: Went around the Sun 21 times
 <!-- - 💬 Ask me about --->
