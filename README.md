@@ -8,3 +8,22 @@
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Went around the Sun 21 times.
 - 💬 Ask me about: HTML, CSS
+
+🧰 Languages and Tools
+
+
+C Programming Language
+
+C++
+
+Java
+
+Python
+
+HTML5
+
+CSS3
+
+JavaScript
+
+PHP
