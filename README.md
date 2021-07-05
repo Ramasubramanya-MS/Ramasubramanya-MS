@@ -10,6 +10,3 @@
 - 💬 Ask me about: HTML, CSS
 
 🧰 Languages and Tools
-
-
-![alt text](image.jpg)
