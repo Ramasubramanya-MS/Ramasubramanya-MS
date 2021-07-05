@@ -11,3 +11,6 @@
 - 💬 Ask me about: HTML, CSS
 
 🧰 Languages and Tools
+
+### Github stats
+img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<Ramasubramanya-MS>&theme=<THEME_NAME>" />
