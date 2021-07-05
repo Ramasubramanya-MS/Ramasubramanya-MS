@@ -13,4 +13,4 @@
 🧰 Languages and Tools
 
 ### Github stats
-img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<Ramasubramanya-MS>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<Ramasubramanya-MS>&theme=<THEME_NAME>" />
