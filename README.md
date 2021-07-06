@@ -19,6 +19,6 @@
 </a>
 <br>
 <a href="https://github.com/Ramasubramanya-MS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramasubramanya-MS&title_color=ffffff&layout=compact&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramasubramanya-MS&title_color=ffffff&layout=compact&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=20" />
 </a>
 
