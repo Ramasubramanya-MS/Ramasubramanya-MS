@@ -16,11 +16,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramasubramanya-MS&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/Ramasubramanya-MS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ramasubramanya-MS&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ramasubramanya-MS&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ramasubramanya's GitHub Stats" />
 </a>
 
 <a href="https://github.com/Ramasubramanya-MS/Programs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ramasubramanya-MS&repo=Programs&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramasubramanya-MS&repo=Programs&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/Ramasubramanya-MS/Machine-Learning-and-misc">
