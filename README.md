@@ -12,7 +12,7 @@
 🧰 Languages and Tools
 
 ### Github stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramasubramanya-MS&exclude_repo=Machine-Learning-and-Misc)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramasubramanya-MS&?exclude_repo=Machine-Learning-and-Misc&layout=compact)
 
 <a href="https://github.com/Ramasubramanya-MS">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ramasubramanya-MS&show_icons=true&line_height=27&count_private=true&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ramasubramanya's GitHub Stats" />
