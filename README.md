@@ -9,7 +9,7 @@
 - ⚡ Fun fact: Travelled around the Sun 21 times.
 - 💬 Ask me about: Hmmm...
 - 
-🧰 Languages and Tools - Python, JavaScript
+🧰 Languages and Tools - C++, Python, JavaScript, AWS
 
 ### Github stats
 <a href="https://github.com/Ramasubramanya-MS">
