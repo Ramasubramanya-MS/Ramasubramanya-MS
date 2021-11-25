@@ -1,4 +1,4 @@
-### Namaskara <img src="https://tenor.com/view/namaste-covid-covid19-hand-shake-no-handshake-gif-16705107"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Namaskara <img src="<div class="tenor-gif-embed" data-postid="16705107" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/namaste-covid-covid19-hand-shake-no-handshake-gif-16705107">Namaste Covid GIF</a>from <a href="https://tenor.com/search/namaste-gifs">Namaste GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently working on Web Based Algorithm Visualiser and few Practical implementation Machine Learning Algorithms.
 - 🌱 I’m currently learning Javascript, Python libraries for Data Science and Machine Learning.
