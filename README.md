@@ -1,5 +1,5 @@
 ### Namaskara
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently working on Web Based Algorithm Visualiser and few Practical implementation Machine Learning Algorithms.
 - 🌱 I’m currently learning Javascript, Python libraries for Data Science and Machine Learning.
