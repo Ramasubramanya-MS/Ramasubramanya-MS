@@ -8,9 +8,8 @@
 - 📫 How to reach me: ramasubramanyams1729@gmail.com
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Currently on 24th journey around the sun.
-- 💬 Ask me about: Hmmm...
-- 
-🧰 Languages and Tools - C++, Python, JavaScript, AWS
+
+🧰 Languages and Tools - MS-suite, C++, Python, JavaScript, AWS
 
 ### Github stats
 <a href="https://github.com/Ramasubramanya-MS">
