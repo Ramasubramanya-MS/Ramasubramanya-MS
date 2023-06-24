@@ -1,9 +1,9 @@
 ### Namaskara
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working on Web Based Algorithm Visualiser and few Practical implementation Machine Learning Algorithms.
-- 🌱 I’m currently learning Javascript, Python libraries for Data Science and Machine Learning.
-- 👯 I’m looking to collaborate on Machine Learning, Full-stack development, Inter-disciplinary projects.
+- 🔭 I’m currently working on practicing Data Cleaning and Data Viz.
+- 🌱 I’m currently learning Python libraries for Machine Learning.
+- 👯 I’m looking to collaborate on Machine Learning, Inter-disciplinary projects.
 - 🤔 I’m looking for help with Android Studio.
 - 📫 How to reach me: ramasubramanyams1729@gmail.com
 - 😄 Pronouns: He/Him.
