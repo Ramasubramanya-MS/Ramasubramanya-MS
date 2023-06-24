@@ -1,7 +1,7 @@
 ### Namaskara
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working on practicing data cleaning and data viz.
+- 🔭 I’m currently working on practicing data cleaning and data visulaisation.
 - 🌱 I’m currently learning python libraries for Machine Learning.
 - 👯 I’m looking to collaborate on Machine Learning, Inter-disciplinary projects.
 - 🤔 I’m looking for help with Android Studio.
