@@ -1,8 +1,8 @@
 ### Namaskara
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🔭 I’m currently working on practicing Data Cleaning and Data Viz.
-- 🌱 I’m currently learning Python libraries for Machine Learning.
+- 🔭 I’m currently working on practicing data cleaning and data viz.
+- 🌱 I’m currently learning python libraries for Machine Learning.
 - 👯 I’m looking to collaborate on Machine Learning, Inter-disciplinary projects.
 - 🤔 I’m looking for help with Android Studio.
 - 📫 How to reach me: ramasubramanyams1729@gmail.com
